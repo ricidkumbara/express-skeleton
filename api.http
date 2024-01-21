@@ -1,0 +1,9 @@
+### Welcome
+GET http://localhost:8080/
+Accept: application/json
+Content-Type: application/json
+
+### Healh Check
+GET http://localhost:8080/health-check?code=error
+Accept: application/json
+Content-Type: application/json
