@@ -5,6 +5,7 @@
 - Middleware
 - Validation
 - Error Handler
-- Logger
+- Error & Info Logger
 - Database (Prisma)
 - Unit Test
+- Morgan Request Logger (console)
